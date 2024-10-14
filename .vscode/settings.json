@@ -1,0 +1,24 @@
+{
+    "python.defaultInterpreterPath": "C:/Program Files/QGIS 3.36.3/apps/Python312/python.exe",
+    "terminal.integrated.env.windows": {
+        "PYTHONHOME": "C:/Program Files/QGIS 3.36.3/apps/Python312",
+        "PYTHONPATH": "C:/Program Files/QGIS 3.36.3/apps/qgis/python;%PYTHONPATH%",
+        "GDAL_DATA": "C:/Program Files/QGIS 3.36.3/share/gdal",
+        "GDAL_DRIVER_PATH": "C:/Program Files/QGIS 3.36.3/bin/gdalplugins",
+        "GDAL_FILENAME_IS_UTF8": "YES",
+        "GEOTIFF_CSV": "C:/Program Files/QGIS 3.36.3/share/epsg_csv",
+        "O4W_QT_BINARIES": "C:/Program Files/QGIS 3.36.3/apps/Qt5/bin",
+        "O4W_QT_DOC": "C:/Program Files/QGIS 3.36.3/apps/Qt5/doc",
+        "O4W_QT_HEADERS": "C:/Program Files/QGIS 3.36.3/apps/Qt5/include",
+        "O4W_QT_LIBRARIES": "C:/Program Files/QGIS 3.36.3/apps/Qt5/lib",
+        "O4W_QT_PLUGINS": "C:/Program Files/QGIS 3.36.3/apps/Qt5/plugins",
+        "O4W_QT_PREFIX": "C:/Program Files/QGIS 3.36.3/apps/Qt5",
+        "O4W_QT_TRANSLATIONS": "C:/Program Files/QGIS 3.36.3/apps/Qt5/translations",
+        "QT_PLUGIN_PATH": "C:/Program Files/QGIS 3.36.3/apps/qgis/qtplugins;C:/Program Files/QGIS 3.36.3/apps/qt5/plugins",
+        "QGIS_PREFIX_PATH": "C:/Program Files/QGIS 3.36.3/apps/qgis",
+        "VSI_CACHE": "TRUE",
+        "VSI_CACHE_SIZE": "1000000"
+    },
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": true
+}
